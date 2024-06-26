@@ -1,0 +1,41 @@
+/**
+ * @name utfhf
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground_lite.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+
+:root {
+  --undefined: 0;
+  --color1: 30, 40, 50;
+  --color2: 9, 18, 24;
+  --color3: 35, 120, 200;
+  --undefined: 0;
+  --ColorOpacity: 1;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://i.imgur.com/dL8SeoI.png');
+  --undefined: 0;
+  --FVUI: 0;
+  --customdesc: 0;
+  --image: url('https://i.imgur.com/lVhJvFj.jpeg');
+  --OpacityBG: 60%;
+  --BlurBG: 0px;
+}
+
+/* Any custom CSS below here */
+
+
